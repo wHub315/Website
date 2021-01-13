@@ -1,0 +1,13 @@
+
+= Tips =
+
+# Make sure to fully comprehend your task before you start coding.
+# Plan out your functions before you try implementing them
+# Break down big problems into smaller functions as much as possible for easier testing
+# Test every step of the way.
+# Use a variety of files with different inputs to test, not just the same one.
+# If you discover an error in your code, ensure it isn’t repeated elsewhere (it likely is).
+# Just because your code works, doesn’t mean it’s right.
+# The best solution is usually the one that takes the least amount of space.
+# Ensure you are using the resources given to you to their fullest extent
+# Comment as you go.

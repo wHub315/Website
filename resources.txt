@@ -1,0 +1,7 @@
+
+= Especially Useful Websites =
+
+* https://www.php.net/manual/en/
+* https://www.w3schools.com/
+* https://catswhocode.com/php-regex/
+* https://regexone.com/
